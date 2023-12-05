@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ea27c82-0fe9-405d-859a-07801f350762" name="Changes" comment="git commit -m &quot;primeiro commit&quot;">
+    <list default="true" id="8ea27c82-0fe9-405d-859a-07801f350762" name="Changes" comment="git commit -m &quot;segundo commit&quot;">
+      <change afterPath="$PROJECT_DIR$/src/MensagemMotivadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GuiLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GuiLista.java" afterDir="false" />
     </list>
@@ -61,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701697051292</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git commit -m &quot;segundo commit&quot;">
+      <created>1701734802602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701734802602</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit -m &quot;primeiro commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;primeiro commit&quot;" />
+    <MESSAGE value="git commit -m &quot;segundo commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;segundo commit&quot;" />
   </component>
 </project>
